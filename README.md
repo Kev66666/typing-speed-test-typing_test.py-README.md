@@ -5,5 +5,8 @@ A simple Python typing speed test that measures:
 - **Accuracy**
 - **Total time**
 
-## How to Run
+## Features
+- Random sentence each run  
+- Real-time typing test  
+- Calculates both speed and accuracy 
 
